@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "BlinkingLabel"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "BlinkingLabel is my first pod, let me understand how to use."
 
 # This description is used to generate tags and improve search results.
